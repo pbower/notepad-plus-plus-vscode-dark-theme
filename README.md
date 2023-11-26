@@ -9,6 +9,7 @@ Vs-Code-Like Dark Theme for Protobuf files in Notepad++
 1. Go to https://github.com/hellon8/VS2019-Dark-Npp
 2. Follow VS2019-Dark-Npp setup instructions
 3. Return to this repository.
+
 ====================================================
 
 ### Protobuf Theme Installation
